@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="205" viewBox="0 0 1000 205" role="img" aria-label="u8bj — building desktop tools and sharing the source">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#171020"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#c4a0ff"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="998" height="203" rx="16" fill="url(#bg)" stroke="#30283e"/>
+  <rect x="35" y="36" width="4" height="133" rx="2" fill="url(#accent)"/>
+  <g fill="none" stroke="#a78bfa" opacity=".15"><circle cx="875" cy="103" r="100"/><circle cx="875" cy="103" r="72"/><circle cx="875" cy="103" r="44"/><path d="M745 103h245M875 0v205"/></g>
+  <circle cx="941" cy="48" r="4" fill="#b58aff"/>
+  <circle cx="806" cy="153" r="3" fill="#b58aff" opacity=".6"/>
+  <text x="63" y="58" fill="#b79ecc" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="3">DESKTOP TOOLS / OPEN SOURCE</text>
+  <text x="59" y="125" fill="#f2edf8" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-3">u8bj</text>
+  <text x="63" y="164" fill="#ada1ba" font-family="Segoe UI,Arial,sans-serif" font-size="18">Building tools. Sharing the source.</text>
+  <path d="m854 90-14 13 14 13m42-26 14 13-14 13m-15-29-12 32" stroke="#b58aff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

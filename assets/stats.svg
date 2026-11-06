@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="165" viewBox="0 0 1000 165" role="img" aria-label="Public GitHub statistics">
+<rect x="1" y="1" width="998" height="163" rx="14" fill="#0f1119" stroke="#30263c"/>
+<text x="126" y="80" text-anchor="middle" fill="#c4a0ff" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="600">2</text>
+<text x="126" y="110" text-anchor="middle" fill="#a89cb8" font-family="Segoe UI,Arial,sans-serif" font-size="13">Public repositories</text>
+<path d="M251 30v88" stroke="#30263c"/>
+<text x="376" y="80" text-anchor="middle" fill="#c4a0ff" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="600">0</text>
+<text x="376" y="110" text-anchor="middle" fill="#a89cb8" font-family="Segoe UI,Arial,sans-serif" font-size="13">Followers</text>
+<path d="M501 30v88" stroke="#30263c"/>
+<text x="626" y="80" text-anchor="middle" fill="#c4a0ff" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="600">0</text>
+<text x="626" y="110" text-anchor="middle" fill="#a89cb8" font-family="Segoe UI,Arial,sans-serif" font-size="13">Repository stars</text>
+<path d="M751 30v88" stroke="#30263c"/>
+<text x="876" y="80" text-anchor="middle" fill="#c4a0ff" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="600">0</text>
+<text x="876" y="110" text-anchor="middle" fill="#a89cb8" font-family="Segoe UI,Arial,sans-serif" font-size="13">Repository forks</text>
+<text x="30" y="145" fill="#756b84" font-family="Segoe UI,Arial,sans-serif" font-size="10">PUBLIC GITHUB DATA / REFRESHED 2026-11-06 UTC</text></svg>
